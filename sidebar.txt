@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byv:home|Door43 (byv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byv|d43-byv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byv/archive/master.zip|d43-byv.zip]]
+
+**Recent Changes**
+{{changes>ns = byv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byv|Ethnologue data]]
+
